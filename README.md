@@ -1,4 +1,4 @@
-## AimBot
+## AimBot【1.16.x】
 
 Aimが敵mobに自動で合うデータパックです。
 
